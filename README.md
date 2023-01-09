@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
 </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tara-chand-k-5544a2216/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Badge"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Badge" width="30px" />
   </a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=nishtha53&style=flat-square&color=blue" alt=""/>
