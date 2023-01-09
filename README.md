@@ -73,6 +73,10 @@ You can click the Preview link to take a look at your changes.
 </div>
   
 ---
+### :fire: My Stats :
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tara122333&theme=dark)](https://git.io/streak-stats)
+![Tara's GitHub stats](https://github-readme-stats.vercel.app/api?username=tara122333&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tara122333&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
