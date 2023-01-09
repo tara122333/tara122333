@@ -24,17 +24,52 @@
 </div>
 
 
+---
 
 
+### :woman_technologist: About Me :
 
+I am Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Rajasthan, India.
 
+- :telescope: I’m Learning Full stack development and contributing to frontend and backend for building web applications.
 
-- 👋 Hi, I’m Tara Chand Kumawat a MERN Stack Developer.
+- :seedling: Exploring Technical Content Writing And Content Creator.
+
+- :zap: In my Night time, I solve problems on Leetcode and Codechef.
+
 - 🌱 I’m currently learning Data Scientist and Advance Web Technology
-- 💞️ I’m looking to collaborate on any developement project
-- 📫 contact me :- https://tara122333.github.io/tara-portfolio-MERN/
+
+- 📫 Visit my portfolio website :- https://tara122333.github.io/tara-portfolio-MERN/
+
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tara-chand-k-5544a2216/)
+
 
 <!---
 tara122333/tara122333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="Reactjs" alt="React" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="TailwindCss"  alt="Gatsby" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git and Github" width="40" height="40"/>
+</div>
+  
+---
+
+
+
